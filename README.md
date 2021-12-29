@@ -1,2 +1,7 @@
 # Kata1
-## Dado un array que se rellenará de valores enteros realizar una aplicación de consola para el cálculo del histograma, es decir la frecuencia de cada valor en ese array.
+Objetivos
+- Crear una clase Person para el cálculo de la edad.
+- Editar el código con el apoyo de los atajos de
+teclado de Netbeans.
+- Guardar el proyecto en un repositorio local Git.
+- Subir el repositorio a GitHub.
